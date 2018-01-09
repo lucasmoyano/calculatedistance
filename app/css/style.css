@@ -1,0 +1,18 @@
+.result-value {
+    font-size: 2em;
+	color: cadetblue;
+}
+#content-pane {
+	float: right;
+	width: 48%;
+	padding-left: 2%;
+}
+#outputDiv {
+	font-size: 11px;
+}
+body {
+	margin: 10px;
+}
+.hide {
+	display:none;
+}
